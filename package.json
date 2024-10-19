@@ -1,0 +1,17 @@
+{
+  "name": "javascript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "module",
+  "author": "STP",
+  "license": "ISC",
+  "dependencies": {
+    "esm": "^3.2.25",
+    "request": "^2.88.2",
+    "request-promise": "^4.2.6"
+  }
+}
